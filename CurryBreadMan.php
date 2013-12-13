@@ -35,7 +35,7 @@ class CurryBreadMan extends Hero
      */
     public function getIntro()
     {
-        return '~';
+        return '辛さ１０倍!!';
     }
 }
 ?>
