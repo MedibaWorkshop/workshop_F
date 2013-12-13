@@ -35,7 +35,7 @@ class CurryBreadMan extends Hero
      */
     public function getIntro()
     {
-        return '辛さ１０倍!!';
+        return '戦いが終わったら、ぐっすり眠れるって保証はあるんですか！';
     }
 }
 ?>
