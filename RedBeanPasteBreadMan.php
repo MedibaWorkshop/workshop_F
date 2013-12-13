@@ -35,7 +35,7 @@ class RedBeanPasteBreadMan extends Hero
      */
     public function getIntro()
     {
-        return 'norita';
+        return '元気１００倍!!';
     }
 }
 ?>
