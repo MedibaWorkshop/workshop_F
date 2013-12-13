@@ -35,7 +35,7 @@ class CreamBread extends Hero
      */
     public function getIntro()
     {
-	    return 'パンダじゃないやい！';
+	    return '戦いは非情さ・・・。';
     }
 }
 ?>
