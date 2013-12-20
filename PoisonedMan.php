@@ -25,7 +25,7 @@ class PoisonedMan extends Heel
 {
 
     protected $name="バイキンマン";
-    protected $finish_echo='';
+    protected $finish_echo='は～ひふ～へほ～！！';
               
     /**
      * 茶々台詞を取得  
