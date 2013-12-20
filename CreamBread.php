@@ -25,7 +25,7 @@ class CreamBread extends Hero
 {
 
     protected $name='クリームパンダ';
-    protected $finish_echo='';
+    protected $finish_echo='貴様は俺のクリームを一気飲みできるか？？';
               
     /**
      * 紹介文
