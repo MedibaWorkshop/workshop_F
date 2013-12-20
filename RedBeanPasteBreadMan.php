@@ -25,7 +25,7 @@ class RedBeanPasteBreadMan extends Hero
 {
 
     protected $name='アンパンマン';
-    protected $finish_echo='';
+    protected $finish_echo='アンパンマンの必殺技効果音で”アーンパンチ”を返すように変更してください。';
               
     /**
      * 紹介文
